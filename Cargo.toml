@@ -1,0 +1,10 @@
+[package]
+name = "rusty-ranger"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.26"
+crossterm = "0.27"
+walkdir = "2.4"
+rand = "0.8"
