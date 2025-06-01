@@ -1,6 +1,6 @@
 # Rust Tools
 
-**Rust Tools** is a collection of practical command-line utilities written in Rust. These tools are fast, reliable, and lightweight — ideal for developers and power users who need handy utilities.
+**Rust Tools** is a collection of practical command-line utilities written in Rust.
 
 ---
 
