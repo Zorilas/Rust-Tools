@@ -10,8 +10,11 @@
 
 Generates secure random passwords with customizable length. Supports uppercase, lowercase letters, and special characters (`=`, `!`, `.`, `?`, `%`).
 
-*(More tools will be added soon!)*
+### Game
 
+Says what you typed in
+
+*(More tools will be added soon!)*
 ---
 
 ## Installation
@@ -26,10 +29,9 @@ cargo build --release
 
 # Usage
 
-**Password Generator**
-Run the password generator:
+To run the tools (e.g. password generator) run:
 `cargo run`
-You will be asked to enter the desired password length. After input, a strong random password will be generated.
+You will be asked then to enter a file name. For the src/generator.rs just type "generator" and for the src/game.rs type "game".
 
 # Contributing
 Contributions are welcome!
