@@ -1,7 +1,7 @@
 use std::io;
 use rand::Rng;
 
-fn main() {
+pub fn run() {
     let options: [&'static str; 57] = [
         "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
         "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
