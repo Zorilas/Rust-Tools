@@ -19,7 +19,7 @@ Generates secure random passwords with customizable length. Supports uppercase, 
 Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed.
 
 ```bash
-git clone https://github.com/YourGitHubUsername/rust-tools.git
+git clone https://github.com/Zorilas/Rust-Tools/
 cd rust-tools
 cargo build --release
 ```
