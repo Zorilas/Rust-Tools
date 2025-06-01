@@ -8,7 +8,7 @@
 
 ### Password Generator
 
-Generates secure random passwords with customizable length. Supports uppercase, lowercase letters, and special characters (`=`, `!`, `.`, `?`, `%`).
+Generates random passwords with customizable length. Supports uppercase, lowercase letters, and special characters (`=`, `!`, `.`, `?`, `%`).
 
 ### Game
 
